@@ -10,7 +10,7 @@ function tantoPorCiento() {
     let operacion =( numero * (porcentaje/100))
     let resultado = `El ${porcentaje}% de ${numero} es ${operacion}`
 
-    console.log(resultado);
+   alert(resultado);
 }
 
 
