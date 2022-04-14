@@ -1,9 +1,5 @@
 //Hallar el x por ciento de x número
 
-
-
-
-
 function tantoPorCiento() {
     let numero = prompt("Elige un número");
     let porcentaje = prompt('porcentaje');
